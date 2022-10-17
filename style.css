@@ -60,10 +60,10 @@ body {
 
 .bildet { 
 
-    grid-row: 2 / 6; 
+    grid-row: 3 / 6; 
     grid-column: 2 / 5;
     justify-self: left;
-    align-self: end;
+    align-self: start;
     z-index: -4; 
 
 }
