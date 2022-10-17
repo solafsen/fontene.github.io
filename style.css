@@ -69,9 +69,9 @@ body {
 .paginering {
 
     grid-row: 5 / 6; 
-    grid-column-start: 3; 
+    grid-column-start: 4; 
     justify-self: left;
-    align-self: end; 
+    align-self: center; 
 
 }
 
