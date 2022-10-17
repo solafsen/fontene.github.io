@@ -62,7 +62,7 @@ body {
 
     grid-row: 3 / 6; 
     grid-column: 2 / 5;
-    justify-self: left;
+    justify-self: end;
     align-self: start;
     z-index: -4; 
 
