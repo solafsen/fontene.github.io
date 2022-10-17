@@ -27,7 +27,7 @@ body {
         "sidebar main main main"
         ". paginering . .";
     
-    column-gap: 30px; 
+    column-gap: 100px; 
     row-gap: 80px;
 
 
@@ -62,7 +62,7 @@ body {
 
     grid-row: 3 / 6; 
     grid-column: 2 / 5;
-    justify-self: center;
+    justify-self: left;
     align-self: start;
     z-index: -4; 
 
@@ -70,7 +70,7 @@ body {
 
 .paginering {
 
-    grid-row: 5 / 6; 
+    grid-row: 6 / 7; 
     grid-column-start: 3; 
     justify-self: center;
     z-index: 1;
