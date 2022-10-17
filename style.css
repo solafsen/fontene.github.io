@@ -70,7 +70,7 @@ body {
 
 .paginering {
 
-    grid-row: 6 / 7; 
+    grid-row: 5 / 6; 
     grid-column-start: 3; 
     justify-self: center;
     z-index: 1;
