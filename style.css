@@ -27,8 +27,8 @@ body {
         "sidebar main main main"
         ". paginering . .";
     
-    column-gap: 100px; 
-    row-gap: 80px;
+    column-gap: 80px; 
+    row-gap: 60px;
 
 
 
@@ -63,7 +63,7 @@ body {
     grid-row: 3 / 6; 
     grid-column: 2 / 5;
     justify-self: left;
-    align-self: end;
+    align-self: start;
     z-index: -4; 
 
 }
