@@ -60,20 +60,19 @@ body {
 
 .bildet { 
 
-    grid-row: 3 / 6; 
+    grid-row: 2 / 6; 
     grid-column: 2 / 5;
     justify-self: left;
-    align-self: start;
+    align-self: end;
     z-index: -4; 
 
 }
 
 .paginering {
 
-    grid-row: 5 / 6; 
+    grid-row: 6 / 7; 
     grid-column-start: 3; 
     justify-self: center;
-    align-self: start;
     z-index: 1;
 
 }
@@ -451,6 +450,12 @@ figcaption {
 
     background-color: #FFF;
     display: inline-block; 
+    text-align: center;
+
+}
+
+.paginering {
+
     text-align: center;
 
 }
